@@ -10,3 +10,9 @@ npm run build
 # OR
 npm start
 ```
+
+---
+
+Related links:
+- repository: https://github.com/gautierrollin/wei-endless-build
+- issue: https://github.com/ScriptedAlchemy/webpack-external-import/issues/129
